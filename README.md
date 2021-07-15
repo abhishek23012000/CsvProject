@@ -5,7 +5,6 @@
   <li>
       Install NodeJs (nodejs.org)
     </li>
-   
     <li>
     Fork, Clone and open this repository in a terminal/command prompt
     </li>
@@ -62,37 +61,32 @@ Execute npm start
  
 
 ## Screenshots
-<h3>Sign-in</h3>
+<h3>Data of csv file</h3>
 <div>
  
-<img src="screenshots/sign-in.png" alt="abhi2301">
+<img src="ScreenshotsCsv/data.png" alt="abhi2301">
 
   </div>
-  <h3>home-Page after logIn</h3>
+  <h3>home-Page after uploading csv file</h3>
     <div>
  
-<img src="screenshots/Screenshot (10).png" alt="abhi2301">
+<img src="ScreenshotsCsv/Home page.png" alt="abhi2301">
 
   </div>
   
-   <h3>Followers and all Users</h3>
+   <h3>flah error </h3>
     <div>
  
-<img src="screenshots/friend.png" alt="abhi2301">
+<img src="ScreenshotsCsv/notcsvformat.png" alt="abhi2301">
 
   </div>
   
-   <h3>Profile</h3>
+   <h3>File added</h3>
     <div>
  
- <img src="screenshots/profile.png" alt="abhi2301">
+ <img src="ScreenshotsCsv/added" alt="abhi2301">
 
   </div>
   
-   <h3>Chat</h3>
-    <div>
- 
- <img src="screenshots/chat.png" alt="abhi2301">
-
-  </div>
+   
 
