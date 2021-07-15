@@ -67,14 +67,14 @@ Execute npm start
 <img src="ScreenshotsCsv/data.png" alt="abhi2301">
 
   </div>
-  <h3>home-Page after uploading csv file</h3>
+  <h3>Home-Page after uploading csv file</h3>
     <div>
  
 <img src="ScreenshotsCsv/Home page.png" alt="abhi2301">
 
   </div>
   
-   <h3>flah error </h3>
+   <h3>Flah error </h3>
     <div>
  
 <img src="ScreenshotsCsv/notcsvformat.png" alt="abhi2301">
@@ -84,7 +84,7 @@ Execute npm start
    <h3>File added</h3>
     <div>
  
- <img src="ScreenshotsCsv/added" alt="abhi2301">
+ <img src="ScreenshotsCsv/added.png" alt="abhi2301">
 
   </div>
   
