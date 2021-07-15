@@ -1,6 +1,6 @@
 const express = require("express");
 const bodyParser = require("body-parser");
-const csv = require('csv-parser')
+const csv = require('csv-parser');
 
 const port = 8000;
 const db = require("./config/mongoose");
